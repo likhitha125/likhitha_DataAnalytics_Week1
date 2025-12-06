@@ -1,0 +1,36 @@
+Employees[ID],Employees[Experience_Years],Employees[Age],Employees[Gender],Employees[Salary],Salaryband,Experience_level,Age_Group,Sum Salary for Females,"Sum Salary for male employees with >100,000 salary",Overall salary average,Max salary,Min Salary,By group (average salary for each Female),By group (average salary for each male),EstimatedHireYear
+1,5,28,F,"250,000",High,Senior,21-30,36988500,34866150,2059147.143,10000000,2059147.143,2054916.667,2063626.471,2020
+2,1,21,M,"50,000",Low,Junior,21-30,,,,,,,,2024
+3,3,23,F,"     1,70,000",High,Mid-Level,21-30,,,,,,,,2022
+4,2,22,M,"25,000",Low,Junior,21-30,,,,,,,,2023
+5,1,17,M,"10,000",Low,Junior,0-20,,,,,,,,2024
+6,25,62,M,"5,001,000",High,Senior,41+,,,,,,,,2000
+7,19,54,F,"800,000",High,Senior,41+,,,,,,,,2006
+8,2,21,F,9000,Low,Junior,21-30,,,,,,,,2023
+9,10,36,F,"61,500",Low,Senior,31-40,,,,,,,,2015
+10,15,54,F,"      6,50,000",High,Senior,41+,,,,,,,,2010
+11,4,26,F,"      2,50,000",High,Mid-Level,21-30,,,,,,,,2021
+12,6,29,M,"1,400,000",High,Senior,21-30,,,,,,,,2019
+13,14,39,M,"6,000,050",High,Senior,31-40,,,,,,,,2011
+14,11,40,M,"     2,20,100",High,Senior,31-40,,,,,,,,2014
+15,2,23,M,"7,500",Low,Junior,21-30,,,,,,,,2023
+16,4,27,F,"87,000",Low,Mid-Level,21-30,,,,,,,,2021
+17,10,34,F,"     9,30,000",High,Senior,31-40,,,,,,,,2015
+18,15,54,F,"7,900,000",High,Senior,41+,,,,,,,,2010
+19,2,21,M,"15,000",Low,Junior,21-30,,,,,,,,2023
+20,10,36,M,"     3,30,000",High,Senior,31-40,,,,,,,,2015
+21,15,54,M,"6,570,000",High,Senior,41+,,,,,,,,2010
+22,4,26,M,"25,000",Low,Mid-Level,21-30,,,,,,",",,2021
+23,5,29,M,"6,845,000",High,Senior,21-30,,,,,,,,2020
+24,1,21,F,"6,000",Low,Junior,21-30,,,,,,,,2024
+25,4,23,F,"8,900",Low,Mid-Level,21-30,,,,,,,,2021
+26,3,22,F,"20,000",Low,Mid-Level,21-30,,,,,,,,2022
+27,1,18,M,"3,000",Low,Junior,0-20,,,,,,,,2024
+28,27,62,F,"10,000,000",High,Senior,41+,,,,,,,,1998
+29,19,54,F,"5,000,000",High,Senior,41+,,,,,,,,2006
+30,2,21,F,"6,100",Low,Junior,21-30,,,,,,,,2023
+31,10,34,M,"80,000",Low,Senior,31-40,,,,,,,,2015
+32,15,54,M,"     9,00,000",High,Senior,41+,,,,,,,,2010
+33,20,55,F,"1,540,000",High,Senior,41+,,,,,,,,2005
+34,19,53,F,"9,300,000",High,Senior,41+,,,,,,,,2006
+35,16,49,M,"7,600,000",High,Senior,41+,,,,,,,,2009
